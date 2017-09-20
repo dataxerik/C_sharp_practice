@@ -1,0 +1,6 @@
+C:\Users\dsharp\Documents\C#\C_sharp_practice\StackOverFlowTutorial\StackOverFlowTutorial\bin\Debug\StackOverFlowTutorial.exe.config
+C:\Users\dsharp\Documents\C#\C_sharp_practice\StackOverFlowTutorial\StackOverFlowTutorial\bin\Debug\StackOverFlowTutorial.exe
+C:\Users\dsharp\Documents\C#\C_sharp_practice\StackOverFlowTutorial\StackOverFlowTutorial\bin\Debug\StackOverFlowTutorial.pdb
+C:\Users\dsharp\Documents\C#\C_sharp_practice\StackOverFlowTutorial\StackOverFlowTutorial\obj\Debug\StackOverFlowTutorial.csprojResolveAssemblyReference.cache
+C:\Users\dsharp\Documents\C#\C_sharp_practice\StackOverFlowTutorial\StackOverFlowTutorial\obj\Debug\StackOverFlowTutorial.exe
+C:\Users\dsharp\Documents\C#\C_sharp_practice\StackOverFlowTutorial\StackOverFlowTutorial\obj\Debug\StackOverFlowTutorial.pdb
